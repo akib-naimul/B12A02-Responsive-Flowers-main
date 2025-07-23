@@ -25,10 +25,20 @@
 
 
 .body-part{
-    max-width: 1140px;
-    margin: auto;
+    
     margin-top: 30px;
     font-size: 1.375rem;
+}
+/* header */
+.header-container{
+    max-width: 1140px;
+    margin: auto;
+
+}
+/* main sec */
+.main-section{
+    max-width: 1140px;
+    margin: auto;
 }
 .nav-bar{
     max-height: 71px;
@@ -127,3 +137,35 @@
     width: 11.625rem;
     height: 100%;
  }
+ /* footer section */
+ .footer{
+    width: 100%;
+    height: 21.75rem;
+ }
+ .footer-container{
+    
+    display: flex;
+    
+    justify-content: space-between;
+    border: 1px solid red;
+    margin-top: 50px;
+    align-items: center;
+    margin: 3.125rem 10rem;
+    
+ }
+ .list-1{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    
+ }
+ .list-2{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+ }
+.icons img{
+    margin-right: 24px;
+}
