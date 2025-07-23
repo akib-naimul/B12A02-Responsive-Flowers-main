@@ -1,0 +1,22 @@
+.body-part{
+    max-width: 1140px;
+    margin: auto;
+    margin-top: 30px;
+}
+.nav-bar{
+    max-height: 71px;
+}
+.nav-conatiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 120px;
+}
+.nav-list-item{
+    display: flex;
+    gap: 48px;
+
+}
+.nav-list-item li{
+    list-style: none;
+}
