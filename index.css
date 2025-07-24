@@ -123,6 +123,24 @@
     margin: 38px 0;
 }
 
+/* Latest Deal section */
+.latest-deal-section{
+    margin-top: 120px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center; */
+    border: 1px solid red;
+}
+.latest-deal-container{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    text-align: center;
+}
+.latest-deal-title{
+    font-size: 3.125rem;
+    font-weight: bold;
+}
 
 /* join section */
 .join-section{
