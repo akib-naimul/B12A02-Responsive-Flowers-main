@@ -22,12 +22,15 @@
     
 }
 
-
+.gray-font{
+    color: rgba(107, 114, 128, 1);
+}
 
 .body-part{
     
     margin-top: 30px;
     font-size: 1.375rem;
+    
 }
 /* header */
 .header-container{
@@ -96,6 +99,31 @@
 .card{
     text-align: center;
 }
+
+/* flower & plants lover section */
+.plants-lover{
+    margin-top: 13.1325rem;
+}
+.plants-lover-container{
+    height: 35.43rem;
+    /* margin-top: 13.13rem; */
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: space-between;
+
+    /* border: 1px solid red; */
+}
+.plants-lover-img img{
+    height: 100%;
+}
+.description-container{
+    align-items: center;
+    /* border: 1px solid blue; */
+    margin: 38px 0;
+}
+
+
 /* join section */
 .join-section{
     margin-top: 120px;
