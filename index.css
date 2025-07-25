@@ -382,5 +382,10 @@
         width: 100%;
         height: 200px;
     }
+    /* join section */
+    .join-title{
+        width: 321px;
+        font-size: 30px;
+    }
 }
     
