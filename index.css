@@ -390,5 +390,14 @@
     .subscribe-container{
         width: 450px;
     }
+    /* Footer  */
+    .footer-container{
+        margin: 20px;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .list-1, .list-2{
+        padding-left: 0;
+    }
 }
     
